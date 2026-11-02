@@ -1,0 +1,6 @@
+# CRM CON PYTHON Y POSTGRESQL
+## CONSULTAS BASICAS EN POSTGRESQL
+## CONEXION A POSTGRESQL DESDE PYTHON 
+## DASHBOARD de la tabla 
+## enlace al video 
+https://youtu.be/ozv3BhvSNDk
